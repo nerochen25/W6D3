@@ -1,0 +1,15 @@
+/* PHASE 11: Icons */
+[class*="icon-"] {
+  background-image: url("https://assets.aaonline.io/fullstack/html-css/micro-projects/css-friends/docs/images/sprite.png");
+  background-size: 25px 250px;
+  height: 0;
+  width: 25px;
+  display: inline-block;
+  overflow: hidden;
+  padding-top: 25px;
+}
+
+.icon-reblog{
+  background-position: 0 -125px;
+}
+
